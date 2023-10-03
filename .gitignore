@@ -9,3 +9,4 @@
 /node_modules
 /test/**/*.tmp.test.js
 /typescript
+.DS_Store
